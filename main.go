@@ -11,7 +11,7 @@ var f = flag.String("f", "xtf", `
 指定方式
 xtf 小驼峰命名
 dtf 大驼峰
-xhx 下划线
+xh 下划线
 dx  大写
 xx  小写
 
